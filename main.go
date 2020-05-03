@@ -14,5 +14,5 @@ func main() {
 			"hostname": h,
 		})
 	})
-	r.Run(":8080")
+	r.Run(":80")
 }
